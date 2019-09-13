@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SD_Reason_Downed>Impossible d'activer les fonctions de recherche et destruction pour un colon à terre.</SD_Reason_Downed>
+	<SD_Gizmo_Melee_Label>Rechercher et détruire (m)</SD_Gizmo_Melee_Label>
+	<SD_Gizmo_Melee_Description>Activer la recherche et destruction pour un colon en mêlée.</SD_Gizmo_Melee_Description>
+	<SD_Gizmo_Ranged_Label>Rechercher et détruire (r)</SD_Gizmo_Ranged_Label>
+	<SD_Gizmo_Ranged_Description>Activez la recherche et destruction pour un colon à distance.</SD_Gizmo_Ranged_Description>
+</LanguageData>
